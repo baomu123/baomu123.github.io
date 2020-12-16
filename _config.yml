@@ -1,7 +1,7 @@
 # Site settings
 title: 宝木
 SEOTitle: baomu | technology | education!
-header-img: /img/about-someone.jpg
+header-img: https://pic1.zhimg.com/80/d1f4194857991a859b28fd547ee946fc_1440w.png
 email: 
 description: "March forward ! March forward! March forward by all means necessary!."
 keyword: "java, 数据结构, 算法, 人工智能, 大数据, 教育"
